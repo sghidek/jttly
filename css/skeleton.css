@@ -689,3 +689,7 @@ there.
   font-size:0.7em;
   margin-top:0.5em;
  }
+
+ .flush {
+    margin: 0;
+ }
